@@ -23,6 +23,7 @@ void loop() {
   Serial.println(avgTemp);
   Serial.print("Avg. Humidity: ");
   Serial.println(avgHumidity);
+  delay(2000);
 
 }
 // có thể trong quá trình sử dụng đọc dữ liệu từ cảm biến bị nan thì kiểm tra lại code giúp mình ạ :(((
