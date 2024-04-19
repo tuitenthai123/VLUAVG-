@@ -1,3 +1,2 @@
 ### lib-arduino
-
-Thư viện thuộc sở hữu bạn THái hehehe
+học OPP C++ tại https://www.w3schools.com/cpp/cpp_encapsulation.asp
