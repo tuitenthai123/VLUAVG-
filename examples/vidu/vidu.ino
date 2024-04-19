@@ -12,8 +12,8 @@ void setup() {
 }
 
 void loop() {
-  float temperature = readTemperature();
-  float humidity = readHumidity();
+  float temperature = dht.readTemperature();
+  float humidity = dht.readHumidity();
 
   sensor.addReading(temperature, humidity);
   
