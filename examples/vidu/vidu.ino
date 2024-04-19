@@ -25,3 +25,4 @@ void loop() {
   Serial.println(avgHumidity);
 
 }
+// có thể trong quá trình sử dụng đọc dữ liệu từ cảm biến bị nan thì kiểm tra lại code giúp mình ạ :(((
